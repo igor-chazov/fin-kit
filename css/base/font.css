@@ -1,0 +1,46 @@
+@font-face {
+    font-display: swap;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../../fonts/InterBold.eot");
+    src: url("../../fonts/InterBold.eot") format("embedded-opentype"),
+        url("../../fonts/InterBold.woff2") format("woff2"), url("../../fonts/InterBold.woff") format("woff"),
+        url("../../fonts/InterBold.ttf") format("truetype"), url("../../fonts/InterBold.svg#InterBold") format("svg");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 600;
+    src: url("../../fonts/InterSemiBold.eot");
+    src: url("../../fonts/InterSemiBold.eot") format("embedded-opentype"),
+        url("../../fonts/InterSemiBold.woff2") format("woff2"), url("../../fonts/InterSemiBold.woff") format("woff"),
+        url("../../fonts/InterSemiBold.ttf") format("truetype"),
+        url("../../fonts/InterSemiBold.svg#InterSemiBold") format("svg");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../../fonts/InterMedium.eot");
+    src: url("../../fonts/InterMedium.eot") format("embedded-opentype"),
+        url("../../fonts/InterMedium.woff2") format("woff2"), url("../../fonts/InterMedium.woff") format("woff"),
+        url("../../fonts/InterMedium.ttf") format("truetype"),
+        url("../../fonts/InterMedium.svg#InterMedium") format("svg");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../../fonts/InterRegular.eot");
+    src: url("../../fonts/InterRegular.eot") format("embedded-opentype"),
+        url("../../fonts/InterRegular.woff2") format("woff2"), url("../../fonts/InterRegular.woff") format("woff"),
+        url("../../fonts/InterRegular.ttf") format("truetype"),
+        url("../../fonts/InterRegular.svg#InterRegular") format("svg");
+}
